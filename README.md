@@ -1,6 +1,8 @@
 # vim-jukit
 ## REPL plugin and Jupyter-Notebook alternative for Vim and Neovim
 
+Forked from luk400/vim-jukit.
+
 This plugin is aimed at users in search for a REPL plugin with lots of additional features, including but not limited to the following:
 * Easily send code to a split window running your preferred shell
 * Structure your code with cell markers and use convenient cell operations
