@@ -77,7 +77,7 @@ This plugin is aimed at users in search for a REPL plugin with lots of additiona
 With your plugin manager of choice, e.g. using vim-plug:
 
 ```vim
-Plug 'luk400/vim-jukit' 
+Plug 'mynvimconfigs/vim-jukit' 
 ```
 
 ## Usage
