@@ -199,7 +199,7 @@ if g:jukit_mappings == 1
         nnoremap <leader>ohd :call jukit#splits#close_output_and_history(1)<cr>
     endif
     if !hasmapto('jukit#splits#out_hist_scroll(1)', 'n')
-        nnoremap <leader>j :call jukit#splits#out_hist_scroll(1)<cr>
+        nnoremap <leader>J :call jukit#splits#out_hist_scroll(1)<cr>
     endif
     if !hasmapto('jukit#splits#out_hist_scroll(0)', 'n')
         nnoremap <leader>k :call jukit#splits#out_hist_scroll(0)<cr>
