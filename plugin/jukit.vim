@@ -4,7 +4,7 @@
 
 let s:default_layout = {
     \'split': 'horizontal',
-    \'p1': 0.6, 
+    \'p1': 0.8, 
     \'val': [
         \'file_content',
         \{
