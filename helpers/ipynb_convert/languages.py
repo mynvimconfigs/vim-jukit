@@ -6,5 +6,5 @@ languages = {
     "matlab": {"ext": "m", "cchar": "%", "multiline_start": '%{', "multiline_end": '%}', "kernel_name": "matlab"},
     "rust": {"ext": "rs", "cchar": "//", "multiline_start": '/*', "multiline_end": '*/', "kernel_name": "rust"},
     "lua": {"ext": "lua", "cchar": "--", "multiline_start": '--[[', "multiline_end": '--]]', "kernel_name": "lua"},
-    "go": {"ext": "go", "cchar": "//", "multiline_start": '/*', "multiline_end": '*/', "kernel_name": "go"},
+    "go": {"ext": "go", "cchar": "//", "multiline_start": '/*', "multiline_end": '*/', "kernel_name": "gomacro"},
 }
